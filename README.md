@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ibrahim Mohamed
 
-<!--
-**ibra-othman/ibra-othman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Damanhour National University (Computing and Intelligent Software Engineering), based in Egypt.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter and Dart for mobile apps
+- Web development, front-end and back-end
+- Video editing and Photoshop design
+
+## Looking for
+
+Remote work and chances to build real projects. If you are hiring or can point me in the right direction, get in touch.
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/ibrahim-mohamed-a5927839b/
